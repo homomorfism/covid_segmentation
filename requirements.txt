@@ -1,0 +1,8 @@
+nibabel
+numpy
+tqdm
+Pillow
+matplotlib
+scikit-image
+torchvision
+ray[tune]
